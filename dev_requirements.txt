@@ -17,7 +17,7 @@ pymongo==3.6.0
 pytest==3.4.1
 python-mimeparse==1.6.0
 pytoml==0.1.14
-PyYAML==3.12
+PyYAML==5.1
 setproctitle==1.1.10
 six==1.11.0
 ujson==1.35
