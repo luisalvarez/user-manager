@@ -1,0 +1,7 @@
+falcon==2.0.0
+gunicorn==20.0.4
+meinheld==1.0.1
+setproctitle==1.1.10
+ujson>=1.35
+vyper-config==0.6.1
+
